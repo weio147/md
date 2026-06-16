@@ -4,7 +4,7 @@ shift+tab 切换模式
 
  claude --dangerously-skip-permissions    允许所有
 
-![1781607597142](C:\Users\xup45\AppData\Roaming\Typora\typora-user-images\1781607597142.png)
+![[1781607597142.png]]
 
 /help
 
@@ -25,11 +25,10 @@ shift+tab 切换模式
 /memory 打开CLAUDE.md， Auto-memory控制
 
 
+![[1781607616385.png]]
 
-![1781607616385](C:\Users\xup45\AppData\Roaming\Typora\typora-user-images\1781607616385.png)
+![[1781607625233.png]]
 
-![1781607625233](C:\Users\xup45\AppData\Roaming\Typora\typora-user-images\1781607625233.png)
+![[1781607637513.png]]
 
-![1781607637513](C:\Users\xup45\AppData\Roaming\Typora\typora-user-images\1781607637513.png)
-
-![1781607643994](C:\Users\xup45\AppData\Roaming\Typora\typora-user-images\1781607643994.png)
+![[1781607643994.png]]
