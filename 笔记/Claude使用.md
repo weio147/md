@@ -32,3 +32,7 @@ shift+tab 切换模式
 ![1781687639550](Claude使用.assets/1781687639550.png)
 
 ![1781687649977](Claude使用.assets/1781687649977.png)
+
+
+
+\+ Enter 换行
