@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/Claude使用.md",
+                "file": "xupengClaude_D23联盟功能与科技配置文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude使用"
+              "title": "xupengClaude_D23联盟功能与科技配置文档"
             }
           }
         ]
@@ -185,26 +185,38 @@
   },
   "active": "012b87872a0e7d6d",
   "lastOpenFiles": [
+    "笔记/Claude使用.assets/1781687649977.png",
+    "笔记/Claude使用.assets/1781687639550.png",
+    "笔记/Claude使用.assets/1781687628989.png",
+    "笔记/Claude使用.assets/1781687613370.png",
+    "笔记/Claude使用.assets/1781687580778.png",
+    "笔记/Claude使用.assets",
+    "deleted_img_backup/1781686578747.png",
+    "Untitled.assets/1781686578747.png",
+    "Untitled.assets",
+    "deleted_img_backup/1781607643994.png",
+    "deleted_img_backup/1781607637513.png",
+    "deleted_img_backup/1781607625233.png",
+    "deleted_img_backup/1781607616385.png",
+    "deleted_img_backup",
+    "clean_typora_img.py",
+    "新建 文本文档.txt",
+    "联盟帮助功能结构.md",
+    "Untitled.md",
+    "xupengClaude_Alliance_CONTEXT.md",
+    "xupengClaude_D23联盟功能与科技配置文档.md",
+    "xupengClaude_科技研究系统框架.md",
     "plans/Sticky group header-a6abdc2a.plan.md",
+    "笔记/Claude使用.md",
     "组件.md",
     "CLAUDE.md",
+    "code.lnk",
+    "科技研究系统框架.md",
+    "D23联盟功能与科技配置文档.md",
     "CONTEXT.md",
-    "attachments/1781607643994.png",
-    "attachments/1781607625233.png",
-    "attachments/1781607616385.png",
-    "attachments/1781607597142.png",
-    "笔记/Claude使用.md",
-    "attachments/2026-06-16-Claude使用--3.png",
-    "attachments/Pasted image 20260616221436.png",
-    "attachments/2026-06-16-Claude使用--2.png",
-    "attachments/2026-06-16-Claude使用--1.png",
-    "attachments/Pasted image 20260616221332.png",
-    "attachments/1781607637513.png",
     "attachments",
     "新建文件夹",
     "未命名 1.base",
-    "未命名 2.base",
-    "未命名 3.base",
-    "未命名.base"
+    "未命名 2.base"
   ]
 }

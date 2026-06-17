@@ -4,7 +4,7 @@ shift+tab 切换模式
 
  claude --dangerously-skip-permissions    允许所有
 
-![[1781607597142.png]]
+![1781687580778](Claude使用.assets/1781687580778.png)
 
 /help
 
@@ -25,10 +25,10 @@ shift+tab 切换模式
 /memory 打开CLAUDE.md， Auto-memory控制
 
 
-![[1781607616385.png]]
+![1781687613370](Claude使用.assets/1781687613370.png)
 
-![[1781607625233.png]]
+![1781687628989](Claude使用.assets/1781687628989.png)
 
-![[1781607637513.png]]
+![1781687639550](Claude使用.assets/1781687639550.png)
 
-![[1781607643994.png]]
+![1781687649977](Claude使用.assets/1781687649977.png)
